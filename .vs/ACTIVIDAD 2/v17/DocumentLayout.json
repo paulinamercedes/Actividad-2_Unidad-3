@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Desktop\\Actividad-2_Unidad-3\\ACTIVIDAD 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46A33AA4-64F3-474F-A124-F608F9409699}|ACTIVIDAD 2\\ACTIVIDAD 2.csproj|c:\\users\\laptop\\desktop\\actividad-2_unidad-3\\actividad 2\\actividad 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46A33AA4-64F3-474F-A124-F608F9409699}|ACTIVIDAD 2\\ACTIVIDAD 2.csproj|solutionrelative:actividad 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Actividad-2_Unidad-3\\ACTIVIDAD 2\\ACTIVIDAD 2\\Form1.cs",
+              "RelativeDocumentMoniker": "ACTIVIDAD 2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Actividad-2_Unidad-3\\ACTIVIDAD 2\\ACTIVIDAD 2\\Form1.cs [Design]",
+              "RelativeToolTip": "ACTIVIDAD 2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:37:10.877Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
