@@ -1,0 +1,11 @@
+C:\Users\Laptop\Desktop\Actividad-2_Unidad-3\ACTIVIDAD 2\ACTIVIDAD 2\bin\Debug\ACTIVIDAD 2.exe.config
+C:\Users\Laptop\Desktop\Actividad-2_Unidad-3\ACTIVIDAD 2\ACTIVIDAD 2\bin\Debug\ACTIVIDAD 2.exe
+C:\Users\Laptop\Desktop\Actividad-2_Unidad-3\ACTIVIDAD 2\ACTIVIDAD 2\bin\Debug\ACTIVIDAD 2.pdb
+C:\Users\Laptop\Desktop\Actividad-2_Unidad-3\ACTIVIDAD 2\ACTIVIDAD 2\obj\Debug\lab04.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\Actividad-2_Unidad-3\ACTIVIDAD 2\ACTIVIDAD 2\obj\Debug\ACTIVIDAD_2.Form1.resources
+C:\Users\Laptop\Desktop\Actividad-2_Unidad-3\ACTIVIDAD 2\ACTIVIDAD 2\obj\Debug\ACTIVIDAD_2.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Actividad-2_Unidad-3\ACTIVIDAD 2\ACTIVIDAD 2\obj\Debug\lab04.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Actividad-2_Unidad-3\ACTIVIDAD 2\ACTIVIDAD 2\obj\Debug\lab04.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Actividad-2_Unidad-3\ACTIVIDAD 2\ACTIVIDAD 2\obj\Debug\ACTIVIDAD 2.exe
+C:\Users\Laptop\Desktop\Actividad-2_Unidad-3\ACTIVIDAD 2\ACTIVIDAD 2\obj\Debug\ACTIVIDAD 2.pdb
+C:\Users\Laptop\Desktop\Actividad-2_Unidad-3\ACTIVIDAD 2\ACTIVIDAD 2\obj\Debug\ACTIVIDAD 2.exe.config
